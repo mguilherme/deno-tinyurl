@@ -6,7 +6,7 @@
 To use this library you need to include the `--allow-net` flag into your script.
 
 ```typescript
-import {shorten} from "https://raw.githubusercontent.com/mguilherme/deno-tinyurl/main/mod.ts";
+import {shorten} from "https://deno.land/x/tinyurl/mod.ts";
 
 const shortLink = await shorten("https://www.google.com/");
 console.log(shortLink);
