@@ -10,4 +10,6 @@ import {shorten} from "https://deno.land/x/tinyurl/mod.ts";
 
 const shortLink = await shorten("https://www.google.com/");
 console.log(shortLink);
+
+// https://tinyurl.com/cv8mol7
 ```
