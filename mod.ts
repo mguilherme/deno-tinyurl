@@ -1,1 +1,1 @@
-export {shorten} from "./tinyUrl.ts";
+export {shorten} from './tinyUrl.ts';
